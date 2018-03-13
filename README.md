@@ -7,7 +7,7 @@
 开发语言：Swift3.0  
 开发界面：iPhone7  
 适配：iPhone7，iPhone7Plus  
-引用第三方库：Alamofire，SwiftJSON，HRToast + UIView  
+引用第三方库：Alamofire，SwiftyJSON，HRToast + UIView  
 
 二．项目介绍
 ====
@@ -25,7 +25,7 @@
 在开发文档中有详细的说明，简单的原理说明如下：  
 Alamofire完成网络的请求，模拟登陆教务系统（Get，Post请求)，模拟登陆的过程中要解决的问题是教务系统登陆参数的获取。  
 然后再模拟成绩查询请求完成任务。  
-SwiftJson用来解析JSON数据包。  
+SwiftyJSON用来解析JSON数据包。  
 
 五.待改进地方
 ====
