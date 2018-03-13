@@ -15,7 +15,7 @@
 
 三．使用说明
 ====
-1.需要先安装好 CocoaPods 。
+1.需要先安装好 CocoaPods 。  
 2.修改 Podfile 中的 xcodeproj '/Users/zl/Documents/大三上/ios/ios大作业/北师小助手/bnuzgpa/bnuzgpa.xcodeproj' 路径为项目当前的路径  
 3.cd 到 bnuzgpa 的当前目录  
 4.pod install #安装第三方库  
@@ -23,7 +23,7 @@
 四.项目原理（ Word 开发文档）
 ====
 在开发文档中有详细的说明，简单的原理说明如下：  
-Alamofire完成网络的请求，模拟登陆教务系统（Get，Post请求)，模拟登陆的过程中要解决的问题是教务系统登陆参数的获取。  
+Alamofire完成网络的请求，模拟登陆教务系统（Get，Post请求)，模拟登陆的过程中要解决的问题是教务系统登陆参数的获取。   
 然后再模拟成绩查询请求完成任务。  
 SwiftyJSON用来解析JSON数据包。  
 
